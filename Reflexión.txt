@@ -1,0 +1,15 @@
+Integrantes:
+Juan Esteban Gallo Plaza
+Jorge Antonio Morales
+Reflexión
+Aspectos por mejorar:
+- Normalmente en los proyectos la estimación de tiempos es de suma importancia, en nuestro proyecto no lo supimos medir,
+por lo tanto se trabajó bajo presión en todo momento, sin tener en cuenta las limitaciones y un tiempo de holgura para los errores.
+- Trabajar en la misma Rama, genero problemas debido a que a siempre teniamos que indicar para darle pull o push al repositorio.
+Buenas cosas:
+- En el aspecto visual nos fue muy bien, supimos manejar los diferentes componentes e implementaciones de vuetify.
+- Arreglamos los errores en cuanto a la conexión con la base de datos y estructuramos un buen manejo de la información.
+Que salió mal:
+- No supimos darle lugar a los props de los componentes repetitivos como lo es un mensaje, por lo tanto no fue oportuna su implementación.
+- No aprendimos a manejar bien los componentes concatenados con otros, teniendo una mezcla de información o bucles que no deberían de aparecer.
+- No se planeó bien el uso de los componentes visuales, por lo tanto caimos en utilizar un mismo componente para diferentes objetivos.
